@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NedugaTest</string>
+    <string name="bienvenido_login">Bienvenido</string>
+    <string name="login_user_edittext">Ingrese su usuario</string>
+</resources>
